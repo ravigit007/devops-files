@@ -1,686 +1,3 @@
-sudo mkdir /media/usb
-sudo fdisk -l 
-du - sh
-du -sh
-/
-pwd
-sudo
-sudo -h
-sudo -i
-sudo apt-get update
-git version
-sudo apt install git
-E
-sudo lsof /var/lib/dpkg/lock
-sudo kill -9 3239
-lsof
-clear
-sudo apt install git
-sudo apt-get install git
-sudo apt-get update
-clear
-su - root
-su -root
-su 
-sudo 
-sudo -i
-sudo 
-sudo -i
-git version
-ls
-fdisk -l
-sudo fdisk -l
-cd /media
-ls
-cd us
-cd usb/
-ls
-cd ra
-cd ravi
-df -h
-cd
-du -sh
-sudo du -sh
-/
-cd /
-ls
-pw
-pwd
-su /media
-ls
-cd dev
-ls
-cs
-cd
-clear
-super a
-sudo apt install super
-super a
-super A
-dp kg -l gnome-disk-utility 
-sudo apt install speech-tools
-dp kg -l gnome-disk-utility 
-dp kg -h 
-dp kg -l udisk2 
-sudo dp kg -l
-sudo dp kg -l | grep gnome-disk-utility
-clear
-sudo 
-sudo -i
-sudo init 0
-sudo -i
-git config --global user.name ravindra
-git config --global user.email ravindrakumar3008@gmail.com
-git clone http://github.com/nageshvkn/gamutgurukart.git
-git init
-cd /howe/ravi
-cd /home/ravi
-ls
-cd /home/ravi/.git/
-ls
-cd branches/
-LS
-l
-ls
-cd
-clear
-cd /home/ravi
-ls
-cd /home/ravi/.git
-ls
-inti
-init
-git init
-git status
-git branch
-git add
-git add .
-git branch
-git status
-clear
-ce
-clear
-cd
-exit
-sudo mkdir /home/ravi/Desktop/ravi1
-cd
-clear
-exit
-sudo init 0
-sudo -i
-pwd
-mkdir /home/ravi/deploy.sh
-ls
-git clone https://github.com/schacon/grit.git
-cd grit
-ls
-pwd
-ls -a
-cd .git
-l
-ls
-cd branches/
-ls
-cd logs
-cd ..
-cd logs/
-ls
-git status
-cd
-git status
-clear
-git status
-git version
-sudo apt-get update
-sudo apt-get install git
-clear
-cd /home/ravi
-ls
-cd deploy.sh/
-ls
-ls -ld grit
-cd ..
-ls -ld grit
-cd grit/
-ls
-ls -l
-ls -la
-cat API.txt 
-vi API.txt 
-ls -l
-git status
-git add API.txt 
-git status
-git commit API.txt  -m " modified at line 5"
-git status
-git push
-exit
-version
-uname -a
-who am i
-cd etc
-cd /etc
-ls
-ls -a
-ls -l
-cat issue
-clear
-sudo apt-get install virtualbox-5.1
-sudo apt-get update
-sudo apt-get install virtualbox-5.1
-cd /home/ravi
-ls
-cd grit/
-ls
-ls -l
-vim API.txt 
-vi API.txt 
-git add 
-git add API.txt 
-ls
-git status
-clear
-git status
-git branch
-cd maste
-cd ..
-cd /home/ravi
-ls
-ls -a
-cd .git
-lls
-ls -l
-cd branches/
-ls
-clear
-cd /home/ravi/grit/
-ls
-vi API.txt 
-git status
-git reset head API.txt
-git reset HEAD API.txt
-cat API.txt 
-vi API.txt 
-git status
-git commit -a
-GIT ADD API.txt 
-git add API.txt 
-git status
-git commit API.txt -m second commit for line 5
-git commit API.txt -m "second commit for line 5"
-git push
-exit
-cd issue
-ls -ld issue
-ls -ld
-lsb_release-lb
-cd
-exit
-lsb_release -c
-cd /etc/apt/sources.list
-cat /etc/apt/source.list
-cat /etc/apt/sources.list
-clear
-vi /etc/apt/sources.list
-sudo vi /etc/apt/sources.list
-sudo -i
-git status
-git clone https://github.com/ikshwakusriram/devops-.git
-cd .git
-ls
-cd ..
-cd home/ravi
-cd /home/ravi
-ls
-mv devops- devops
-ls
-cd devops/
-ls
-cd ..
-ls
-cd deploy.sh/
-ls
-cd ..
-clear
-cd /home/ravi/devops/
-ls
-git init
-ls
-lss
-clear
-git push
-echo "# devops-" >> README.md
-cd 
-cd documents
-cd /home/ravi
-ls
-cd Documents/
-ls
-cd devops/
-ls -l
-git add progit 
-git add daily\ classes.odt 
-ls
-git commit
-git commit progit -m  "first commit"
-git commit daily\ classes.odt -m "second commit"
-ls
-cd /home/ravi
-ls -l
-cd devops
-;s
-ls
-cd ..
-cd /home/ravi/grit/
-ls
-git push 
-cd /home/ravi/
-ls
-cd Documents/
-ls
-cd devops/
-ls
-vi daily\ classes.odt 
-clear
-cd
-git clone https://github.com/ikshwakusriram/devops-.git
-cd /home/ravi
-ls
-rm devops
-rm -r devops
-ls
-cd devops-/
-ls
-vi grit.gemspec 
-git add grit.gemspec 
-git status
-git commit
-git commit grit.gemspec -m "first commit"
-git push
-vi grit.gemspec 
-git add
-git add grit.gemspec 
-git commit grit.gemspec 
-git commit grit.gemspec -m "second commit"
-git push
-clear
-cat .gitignore
-git diff
-git status
-cd /home/ravi/devops-/
-ls
-git status
-git diff
-vi vi API.txt 
-vi API.txt 
-git status
-git diff
-clear
-git  --cached
-git --statged
-git diff --cached
-git diff --staged
-git
-git branch
-virtualbox 
-git clone git://github.com/schacon/simplegit-progit.git
-git log
-git log 
-clear
-cd /home/ravi
-ls
-cd simplegit-progit/
-ls
-ls -l
-git push
-git push 
-git clone https://github.com/schacon/simplegit-progit.git
-cd /home/ravi/simplegit-progit/
-ls -l
-cd simplegit-progit/
-ls
-vi README 
-clear
-cd
-cd /home/ravi
-ls
-cd Documents/
-ls
-mv git\ interview\ q.odt /home/ravi/devops-/
-cd ..
-ls
-cd devops-/
-lss
-ls -l
-git push
-vim git\ interview\ q.odt 
-clear
-git help commit
-cd /home/ravi
-ls
-cd simplegit-progit/
-ls
-git status
-git log
-git add simplegit-progit/
-git commit -a
-git commit -a m "first commit
-"
-git commit -m "first commit"
-git status
-git log
-git push
-clear
-set alias a= clear
-a
-set alias clear=a
-a
-system set alias=a
-apt-get update
-sudo apt-get update
-clear
-git log -p -2
-git log stat
-git log --stat
-git log --pretty
-git log
-git log --pretty=online
-git log --since=2.weeks
-gitk
-sudo apt install gitk
-gitk
-git remote -v
-git remote
-git push origin master
-clear
-git tag
-git show tag
-sudo apt-get install oracleexpressaddition
-exit
-cd /media
-ls
-cd usb/
-ls
-sudo fdisk -l 
-gi status
-git status
-commit
-exit
-ls usb
-lsusb
-list input
-sudo install util-linux
-lsinput
-sudo apt intall intput-utils
-sudo apt install input-utils
-clear
-sudo -i
-git branch testing
-git branch
-pwd
-cd /home/ravi
-ls
-cd grit/
-ls
-cd test/
-ls
-cd..
-cd ..
-cd /home/ravi
-ls -l
-cd devops-/
-lss
-ls
-git push
-cd /home/ravi/.git/
-ls
-cd branches/
-l
-ls -l
-ls
-ls -a
-git checkout testing
-cd
-git checkout testiong
-git checkout testing
-git branch
-git checkout master
-git branch master
-git status
-git branch
-git checkout testing
-git branch
-git checkout -d testion
-git checkout -d testing
-git branch -d testing
-git checkout master
-git branch -d testing
-git branch
-git merge tool
-git branch -v
-git branch --merged
-git branch --no-merged
-git checkout --track origin/serverfix
-cd /home/ravi
-ls -l
-cd Documents/
-ls
-git add AWS
-git commint AWS -m "aws document"
-git commit AWS -m "aws document"
-git push
-git push https://www.github.com/ikshwakusriram
-git push --set-upstream https://www.github.com/ikshwakusriram master
-git push --set-upstream https://github.com/ikshwakusriram/devops-
-git push --set-upstream https://github.com/ikshwakusriram/devops- master
-cd home
-cd /home/ravi
-ls -l
-cd Documents/
-ls
-cd devops/
-ls
-git add daily\ classes.odt 
-git commit daily\ classes.odt -m "daily classes"
-vi daily\ classes.odt 
-git commit daily\ classes.odt  -a -m "daily classes.odt" 
-git commit daily\ classes.odt  -a-m "daily classes.odt" 
-git commit daily\ classes.odt   -m "daily classes.odt" 
-git push https://github.com/ikshwakusriram/devops-
-git branch
-git push --set-upstream https://github.com/ikshwakusriram/devops- master
-git fetch origin
-git push origin master
-git remote show origin
-cd
-git remote show origin
-show reop
-show repo
-sudo apt install mailutils-mh 
-sudo apt install nmh
-cd /home
-ls
-cd ravi/
-ls
-c devops-/
-ls
-cd devops-/
-ls
-vi git\ interview\ q.odt 
-git add git\ interview\ q.odt 
-git commit git\ interview\ q.odt -m "first commit"
-git push git\ interview\ q.odt
-git push git\ interview\ q.odt https://github.com/ravigit007/myproject.git
-cd
-ls -la
-pwd
-vim .bashrc 
-cd /home/ravi/
-cd ls
-ls
-cd /root
-ls
-sudo -i
-cd /home/ravi/
-ls
-cd Downloads/
-ls
-tar -xvfz apache-maven-3.5.0-bin.tar.gz 
-.tar -xvfz apache-maven-3.5.0-bin.tar.gz 
-tar -xvfz apache-maven-3.5.0-bin.tar.gz 
-tar xyfz apache-maven-3.5.0-bin.tar.gz 
-tar xvfz apache-maven-3.5.0-bin.tar.gz 
-mkdir software
-ls
-mv software/ softwares
-ls
-mv apache-maven-3.5.0-bin.tar.gz /home/ravi/Downloads/softwares/
-ls
-mv jdk-8u131-linux-x64.tar.gz apache-maven-3.5.0/ /home/ravi/Downloads/softwares/
-ls
-cd softwares/
-ls
-tar xvfz jdk-8u131-linux-x64.tar.gz 
-ls
-ls -l
-du -sh *.gz
-du -sh *
-cd
-cd /
-cd $USER_HOME
-LS
-ls
-/
-cd /
-ls
-cd bin
-ls
-cd
-/
-cd /
-mkdir $USER_HOME
-mkdir USER_HOME
-sudo -i
-echo $PATH
-javac 
-gedit ~/.bashrc
-echo $JAVA_HOME
-gedit ~/.bashrc
-echo $PATH
-mvn
-mvn --version
-vim .bashrc
-gedit ~/.bashrc
-echo $PATH
-java --version
-java -version
-mnv -version
-mvn --version
-mvn -version
-echo $PATH
-javac -version
-java --c
-javac -- version
-java -version
-mvn -version
-vim .bashrc
-echo $PATH
-java -version
-javac -version
-mvn -version
-echo $PATH
-java -version
-javac -version
-mvn -version
-git version
-which fir
-which git
-git push https://github.com/ravigit007/myproject.git
-git push -u origin master
-git remote -v
-vi Login.java
-git add ogin.java
-git add Login.java
-git commit -m "adding Login.java"
-git status
-clear
-git push
-git config --global user.name "ravigit007"
-git config --global user.email "ravi.tagore143@gmail.com"
-git push
-git remote add ravigit007 https://github.com/ravigit007/myproject.git
-git push
-git config user.name "ravigit007"
-git push ravigit007
-git push 
-git push origin master
-git log
-clear
-git push
-sudo git push
-git config --global user.name "ravigit007"
-git config --global user.email "ravi007@outlook.in"
-git push https://github.com/ravigit007/myproject.git
-git push --set-upstream https://github.com/ravigit007/myproject.git master
-git status
-mkdir project1
-cd project1/
-vim file1.txt
-git add file1.txt 
-git commit file1.txt -m "file1commit "
-git push https://github.com/ravigit007/myproject.git
-git rm -f file1.txt 
-git push
-git push https://github.com/ravigit007/myproject.git
-ls 
-ls -l
-la -la
-vi Login.java 
-ped
-pwd
-clear
-git push https://github.com/ravigit007/repository2.git
-git push Login.java
-git push https://github.com/ravigit007/repository2.git
-git push https://github.com/ravigit007/myproject.git
-cd .git
-ls
-cd logs/
-l
-ls
-vi HEAD
-git commit -m "Login.java file removed"
-git push https://github.com/ravigit007/myproject
-git push https://github.com/ravigit007/myproject.git
-git push --set-upstream https://github.com/ravigit007/myproject.git master
-cd mypr
-cd
-ls
-/
-cd /home
-ls
-cd ravi/
-ls
-ls -a
-pwd
-mkdir workspace
-vim FirstProgram.java
-git add FirstProgram.java 
-git commit FirstProgram.java  -m "added file"
-git push 
-git rm -f FirstProgram.java 
-git status
-git commit -m "Fistps deleared"
-cd workspace/
-vim FirstProgram.java
-git add FirstProgram.java 
-vim star.txt
-git add star.txt
-git commit star.txt -m "added"
-git push  FirstProgram.java
-ravi@ravi-Lenovo-G50-80:~/workspace$ g
-git push https://github.com/ravigit007/myproject.git
-ls
 git rm -f star.txt 
 ls
 git commit -m "deletd"
@@ -1768,3 +1085,916 @@ l
 ant build.xml
 vi build.xml 
 clear
+git status
+git add .bash_history
+git status
+exit
+mvn
+mvn package
+cd 
+cd /home/ravi/
+ls
+cd sample-java-project/
+l
+mvn init
+mvn validate
+mvn compile
+mvn test
+mvn package
+mvn deploy
+mvn release
+mvn relese
+mvn realese
+mvn releace
+hostname
+ifconfig
+vim .bashrc
+jenkins -version
+tomcat -version
+ps -ef |grep jenkins
+ps -ef |grep tomcat
+cd /home/ravi/
+ls
+cd Downloads/
+ls
+cd softwares/
+ls
+cd apache-tomcat-9.0.0.M20/
+ls
+cd bin/
+l
+startup.sh
+cd ..
+pwd
+startup.sh
+vim .bashrc
+ps -ef | grep tomcat
+cd /home/ravi/Downloads/softwares/apache-tomcat-9.0.0.M20/bin/
+ls
+startup.sh 
+ifconfig
+git -version
+git --version
+git -v
+git status
+git add .m2/
+git status
+git clone 
+git log
+git config list
+git configaration list
+git clone https://github.com/ravigit007/helloworld
+git init 
+cd /home/ravi/
+ls
+ls -a
+cd .git
+ls
+cd logs/
+ls
+cd refs/
+ls
+cd heads/
+ls
+vi master 
+git log
+mvn
+cd /home/ravi/Downloads/softwares/apache-tomcat-9.0.0.M20/bin/
+ls
+startup.sh
+ifconf
+ifconfig
+cd /home/ravi/.jenkins/
+ls
+cd workspace/
+ls
+cd amazon/
+ls
+sudo apt-get install jenkins
+sudo apt-get udate
+sudo apt-get update
+sudo apt-get install jenkins
+sudo apt-get install tomcat
+sudo apt-get install maven
+cd /usr/bin
+ls
+cd mvn
+vi mvn
+mvn -version
+cd
+cd /home/ravi/Downloads/softwares/
+ls
+cd apache-tomcat-9.0.0.M20/
+cd bin/
+l
+startup.sh
+ifconfig
+virtualbox
+starttime
+start time
+ls -a
+cd /home/ravi/Downloads/
+ls
+cd
+exit
+pa -ef | grep tomcat
+ps -ef | grep tomcat
+cd /home/ravi/Downloads/
+ls
+tar -xvfz apache-tomcat-9.0.0.M20.tar.gz 
+ls
+clear
+tar apa
+tar -xvzf apache-tomcat-9.0.0.M20.tar.gz 
+ls
+clear
+ls
+cd unzip
+cd
+vim .bashrc 
+cd /home/ravi/Downloads/
+mv apache-tomcat-9.0.0.M20 /home/ravi/Downloads/sofrwares
+ls
+cd /home/ravi/Downloads/softwares/
+ls
+cd..
+cd ..
+cd sofrwares/
+ls
+cd ..
+ls
+cd
+cd 
+ls
+clear
+cd /home/
+cd ravi/Downloads/
+ls
+cd /home/ravi/Downloads/
+ls
+cd softwares/
+ls
+cd ..
+ls
+clear
+ls
+tar -xvfz apache-tomcat-9.0.0.M20.tar.gz 
+tar xvfx apache-tomcat-9.0.0.M20.tar.gz 
+ls
+mv apache-tomcat-9.0.0.M20 /home/ravi/Downloads/softwares/
+ls
+cd softwares/
+ls
+cd apache-
+cd apache-tomcat-9.0.0.M20/
+ls
+cd bin/
+ls
+startup.sh
+cd..
+cd ..
+cd 
+cd ..
+cd ravi/Downloads/softwares/apache-tomcat-9.0.0.M20/webapps/
+unzip /home/ravi/Downloads/jen
+dbkg-deb-x /home/ravi/Downloads/jenkins_2.46.2_all.deb 
+dbkg-deb -x /home/ravi/Downloads/jenkins_2.46.2_all.deb 
+dbkg -deb -x /home/ravi/Downloads/jenkins_2.46.2_all.deb 
+dbkg-deb -x /home/ravi/Downloads/jenkins_2.46.2_all.deb 
+cler
+clear
+cd
+cd /home/ravi/Downloads
+ls
+tar xvfz jenkins_2.46.2_all.deb 
+deb xvfz jenkins_2.46.2_all.deb 
+dpkg --unpack jenkins_2.46.2_all.deb 
+sudo dpkg --unpack jenkins_2.46.2_all.deb 
+ls
+cd /home/ravi/Downloads/
+ls
+dbkg --unzip jenkins_2.63_all.deb 
+ld
+ls
+apt-get
+sudo apt-get update
+cd /home/ravi/Downloads/
+ls
+unzip jenkins.war 
+ls
+uzip jenkins.war 
+unzip jenkins.war 
+ls
+cd ..
+ls
+cd /home/ravi/Downloads/
+ls
+man unzip
+jar xvfz jenkins.war 
+jar -xvfz jenkins.war 
+jar -xvfz -cc jenkins.war 
+jar -xvfz -c jenkins.war 
+jar xvfz -c jenkins.war 
+jar  -c jenkins.war 
+62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c
+ls
+unzip jenkins.war 
+ls
+unzip jenkins.war /home/ravi/Downloads/softwares/jenkins
+ls
+cd softwares/
+ls
+mkdir jenkins
+ls
+unzip jenkins.war /home/ravi/Downloads/softwares/jenkins
+cd
+ls
+cd
+clear
+cd /home/ravi/Downloads/softwares/
+ls
+cd he
+cd jenkins/
+ls
+unzip /home/ravi/Downloads/
+unzip /home/ravi/Downloads/jenkins.war 
+ls
+c
+cd
+clear
+cd /home/ravi/Downloads/
+ls
+cd softwares/
+ls
+mv jenkins/ apache-tomcat-9.0.0.M20/webapps/
+ls
+cd apache-tomcat-9.0.0.M20/webapps/
+ls
+vim .bashrc
+apt-get
+apt-get check
+sudo apt-get check
+sudo apt-get -f install
+clear
+cd /home/ravi/Downloads/
+ls
+du -h jenkins
+du -sh picasa-3.0.0-build-57.4402.deb 
+du -sh softwares/
+ls
+cd softwares/
+ls
+d
+cd
+ls
+cd Downloads/
+ls
+mvn -version
+virtualbox
+ls -a
+sudo apt-get remove mvn
+sudo apt-get purge maven
+ls
+cd
+ls
+ls -a
+ps -e
+ps -ef
+l
+ls
+/
+l
+ls
+cd /
+ls
+cd usr/
+ls
+cd bin/
+ls
+cd
+vim .bashrc 
+cleaf
+clear
+java -v
+java -version
+javac -v
+mvn -version
+cd /home/ravi/persionalfiles/
+ls
+cd Devops\ tools\ zipfiles/
+ls
+cp * /home/ravi/Downloads/softwares/
+ls
+cd /home/ravi/Downloads/softwares/
+;s
+ls
+tar xvfz apache-maven-3.5.0-bin.tar.gz 
+ls
+tar xvfx apache-tomcat-9.0.0.M20.tar.gz 
+unzip jenkins.war 
+ls
+tar xvfz jdk-8u131-linux-x64.tar.gz 
+ls
+unzip apache-ant-1.10.1-bin.zip 
+ls
+tar xvfz jenkins.war 
+gzip jenkins.war 
+ls
+tar xvfz jenkins.war.gz 
+gunzip jenkins.war.gz 
+ls
+unzip -d jenkins.war 
+clear
+ls
+cd
+vim bashrc
+vim .bashrc
+javac -v
+javac -version
+vim .bashrc 
+gedit
+gedit .bashrc
+javac -verion
+java -vesion
+java -v
+javac -v
+vim .bashrc 
+echo path?
+echo $PATH
+javac -v
+java -verios
+java -versio
+gedit .bashrc
+javac -v
+javac -vereion
+javac -version
+java -version
+mvn -v
+mvn -version
+cd /home/
+cd ravi/Downloads/softwares/apache-tomcat-9.0.0.M20/
+ls
+cd bin/
+ls
+startup.sh
+gedit
+gedit .bashrc 
+cd /home/ravi/Downloads/softwares/apache-tomcat-9.0.0.M20/bin/
+ls
+./startup.sh 
+ifconfig
+cd /home/ravi/Downloads/softwares/
+l
+ls
+cd apache-tomcat-9.0.0.M20/
+cd webapps/
+ls
+cd
+cd /var/lib/jenkins/secrets/
+sudo cd /var/lib/jenkins/secrets/
+sudo -i
+java -jar jenkins.war
+cd /home/ravi/Downloads/softwares/
+ls
+cd ..
+ls
+cd /home/ravi/persionalfiles/
+ls
+cd SERVERS/
+ls
+cd Devops/
+ls
+cd ..
+cd Devops\ tools\ zipfiles/
+ls
+cp jenkins.war /home/
+sudo -i 
+cd
+java -jar jenkins
+ls
+cd /home/
+ls
+cp jenkins.war /home/ravi/Downloads/softwares/apache-tomcat-9.0.0.M20/webapps/
+ls
+java -jar jenkins.war
+clean
+java -jar jenkins.war
+grant codeBase "file:/var/lib/tomcat5.5/webapps/jenkins/-" {
+};grant codeBase "file:/var/lib/tomcat5.5/webapps/jenkins/-" {
+};cd
+sudo apt-get purge tomcat
+cd /usr/
+cd li
+cd lib/
+ls
+find tomcat
+find apg
+cd
+cd /var/lib
+ls
+find jenkins
+kmdir jenkins
+mkdir jenkins
+sudo -i
+cd
+java -jar jenkins.war
+ls
+cd /home/
+ls
+java -jar jenkins.war
+java -v
+java -version
+javac -v
+javac -version
+ps -ef | grep tomcat
+cd /home/ravi/Downloads/softwares/apache-tomcat-9.0.0.M20/bin
+./startup.sh 
+ps -ef |grep pmon
+pa -ef | grep tomcat
+ps -ef | grep tomcat
+virtualbox
+ifconfig
+gedit .bashrc 
+ifconfig
+net
+cd /var/tmp/systemd-private-clerar
+clear
+cd /usr/share/t
+exit
+dkpg -l | grep tomc
+dpkg -l | grep tomc
+dpkg -l | grep tomcat
+dpkg -l | grep t
+dpkg -l | grep to
+dpkg -l | grep tom
+dpkg -l | grep tomc
+clear
+cd /home/ravi/Downloads/softwares/
+ls
+cd apache-tomcat-9.0.0.M20/
+ls
+cd webapps/
+ls
+rm jenkins.war 
+ls
+cd /home/ravi/Downloads/
+ls
+cd softwares/
+cd 
+ls
+cd /home/ravi/Downloads/softwares/
+ls
+rm apache-tomcat-9.0.0.M20/
+rm -rf apache-tomcat-9.0.0.M20/
+sudo rm -rf apache-tomcat-9.0.0.M20/
+ls
+cd /home/ravi/Downloads/
+ls
+cd /home/ravi/persionalfiles/Devops\ tools\ zipfiles/
+ls
+tar xvfz apache-tomcat-9.0.0.M20.tar.gz 
+ls
+mv apache-tomcat-9.0.0.M20 /home/ravi/Downloads/softwares/
+ls
+cd /home/ravi/Downloads/softwares/apache-tomcat-9.0.0.M20/webapps/
+pwd
+cd /home/ravi/Downloads/
+ls
+cd softwares/
+ls
+cd ..
+cd 
+ls
+cd Downloads/
+ls
+cd ..
+cd persionalfiles/
+ls
+cd Devops\ tools\ zipfiles/
+ls
+cp jenkins.war /home/
+ls
+cp jenkins.war 
+cp jenkins.war /home/ravi/
+ls
+cp jenkins.war /home/ravi/Downloads/softwares/apache-tomcat-9.0.0.M20/webapps/
+it -it
+ls -ltr
+cd /usr/share/tomcat
+cd /usr/share
+ls
+cd /home/ravi/Downloads/softwares/apache-tomcat-9.0.0.M20/bin/
+ls
+./startup.sh 
+cd ..
+lss
+ls
+clear
+ls
+ls -a
+la -la
+cd temp/
+ls
+cd jna-3493154/
+ls
+cd jn
+cd ..
+cd we
+cd ..
+cd webapps/
+ls
+rm jenkins
+rm -rf jenkins
+ls
+ps -ef |grep tomcat
+export JENKINS_HOME=/home/ravi/Downloads/softwares/apache-tomcat-9.0.0.M20/webapps/jenkins.war 
+echo $PATH
+sudo apt-get purge maven
+mvn -v
+mvn install
+sudo apt-get purge maven
+clear
+cd /usr/
+ls
+cd bin/
+ls
+find mvn
+find git
+find tomcat
+find jenkins
+cd ..
+ls
+cd local
+ls
+cd bin/
+ls
+cd ..
+cd share/
+ls
+cd xml/
+ls
+cd entities/
+ls
+cd ..
+cd declaration/
+ls
+cd ..
+cd schema/
+ls
+cd 
+cd /usr/local/share/xml/schema
+cd ..
+ls
+cd sbin/
+ls
+sudo -i
+cd /var/lib/
+ls
+cd gir
+cd git/
+ls
+cd
+cd /etc/
+ls
+cd sudoers.d/
+ls
+cat sysctl.conf
+
+cat sysctl.conf 
+vi  sysctl.conf
+ls
+cd
+cat /etc/systemd
+cd /etc/systemd/
+ls
+cd system/
+ls
+cd ..
+cat /etc//sudoers
+cler
+clear
+cd
+su -
+su 
+sudo -i
+maven -2
+maven -v
+maven -version
+mvn -v
+ps -ef |grep tomcat
+systemctl status tomcat
+cd /home/ravi/Downloads/softwares/apache-tomcat-9.0.0.M20/bin/
+ls
+./startup.sh 
+systemctl status tomcat
+systemctl -l start tomcat
+cd
+clear
+./bashrc
+vi .bashrc 
+export CATALINA_OPTS="-DJENKINS_HOME=/path/to/jenkins_home/ -Xmx512
+
+cd .bashrc
+vi .bashrc 
+virtualbox
+cd /var/backups/
+ls
+cat dpkg.arch.
+cat dpkg.arch.0
+restore
+sudo apt install dump
+restore
+clear
+sudo -i
+systemctl status mvn
+systemctl status maven
+version
+clear
+sudp apt-get install default jdk
+sudo apt-get install default jdk
+sudo apt-get install default-jdk
+vim .bashrc 
+git status
+mvn -v
+ps -ef|grep tomcat
+ps -ef
+ps -ef | grep tomcat
+ps -ef | grep lin
+cd /home/ravi/Downloads/softwares/
+ls
+cd apache-tomcat-9.0.0.M20/
+ls
+cd webapps/
+ls
+cd ..
+ls
+cd bin/
+ls
+./startup.sh 
+cd
+ps -ef|grep tomcat
+cd /var/lib/jenkins
+ls
+cd /var/lib/
+ls
+mkdir jenkins
+su - root
+sudo -i
+cd /home/ravi/
+ls
+mkdir jenkins
+cealr
+clear
+unzip --help
+ls
+cd Downloads/
+ls
+cd softwares/
+ls
+cd 
+cd persionalfiles/
+ls
+cd Dev
+cd Devops\ tools\ zipfiles/
+ls
+unzip jenkins.war
+ls
+rm ColorFormatter.class 
+ls
+rm LogFileOutputStream*
+ls
+rm Main*
+ls
+rm JNLPMain.class 
+ls
+clear
+ls
+mkdir jenkins
+unzip jenkins.war -d jenkins
+ls
+cd jenkins/
+ls
+cd ..
+cd
+ls
+cd Downloads/softwares/apache-tomcat-9.0.0.M20/
+ls
+cd webapps/
+ls
+cd jenkins/
+ls
+cd ..
+rm -rf jenkins
+ls
+c
+cd
+cd /var/lib/jenkins/secrets/
+ls
+cd jenkins/
+ls
+cd ..
+cp jenkins.war jenkins
+ls
+cd jenkins/
+ls
+unzip jenkins.war 
+ls
+virtualbox
+git status
+ls
+cd Documents/
+ls
+git add daily\ classes.odt 
+git commmit -m "daily classes1"
+git commit -m "daily classes1"
+clear
+cd
+git "#devops-files" >>README.md
+ehco  "#devops-files" >>README.md
+echo  "#devops-files" >>README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ravigit007/devops-files
+git push -u origin master
+ls
+cd Documents/
+ls
+vi daily\ classes.odt 
+git add daily\ classes.odt 
+git commit -m "second commit"
+git push -u 
+git push -u origin master
+clear
+exit 
+init 0
+systemctl jenkins
+systemctl status jenkins
+systemctl status tomcatt
+systemctl status tomcat
+vi /var/lib/jenkins/secrets/initialAdminPassword
+cd /var/lib/jenkins/secrets/
+sudo 
+sudo -i
+sudo apt-get update
+sudo apt-get install openssh-server
+putty
+openssh-server
+putty
+ifconfig
+git status
+quit
+clear
+show users
+vim
+ps -ef | grep tomcat
+cd /home/ravi/
+cd /home/ravi/Downloads/softwares/apache-tomcat-9.0.0.M20/bin/
+ls
+./startup
+./startup.sh
+git status
+git branch
+git log list
+got log
+git log
+git pro
+exit
+git status
+mvn -version
+mvn -v
+which mvn
+mvn install
+mvn archetype:generate -DgroupId=com.gamut -DartifactId=gamut -Dversion=4.0.0
+mvn install
+cd /home/ravi/Downloads/softwares/
+ls
+mvn archetype:generate -DgroupId=com.gamut -DartifactId=gamut -Dversion=4.0.0
+cd
+ls
+ls -a
+cd .m2
+ls
+cd repository/
+ls
+cd com
+ls
+cd
+ls
+cd gamut/
+ls
+mvn install
+ls
+cd ra
+cd target/
+ls
+cd 
+ls -a
+cd .m2/
+ls
+cd repository/
+ls
+cd com
+ls
+cd gamut/
+ls
+cd gamut/
+ls
+cd 4.0.0/
+ls
+cd
+cd gamut/
+ls
+vi pom.xml 
+cd
+ls
+cd sample-java-project/
+ls
+vi pom.xml 
+mvn install
+ls
+cd .m2
+cd
+ls
+cd gamut/
+ls
+cd
+cd sample-java-project/
+ls
+
+ls
+cd
+ls
+ls -a
+cd .m2/
+ls
+cd repository/
+ls
+cd com
+ls
+cd paymentsamplejava/
+l
+ls
+cd paymentsamplejava/
+ls
+cd 4.0/
+ls
+cd
+cd sample-java-project/
+ls
+cd target/
+ls
+mvn site
+cd ..
+ls
+mvn site
+ls
+cd target/
+ls
+cd site/
+ls
+cd ..
+cd
+git add sample-java-project/
+git commit -m "sample java project"
+git branch samplejavaproject
+git branch
+git branch checkout
+git branch
+git checkout samplejavaproject 
+git branch
+git commit -m "sample java project"
+git add sample-java-project/
+ls
+git status
+clear
+git commit -m "project java"
+git push https://github.com/ravigit007/myproject/tree/sample-java-project
+git push https://github.com/ravigit007/myproject/tree/master
+git congit
+git config
+git config --list
+git checkout master
+git push https://github.com/ravigit007/myproject/tree/master
+git push
+ls
+ls -ltr
+git status
+mvn -v
+git config --system
+git --system
+git config -syste,
+git config --system
+git config --global
+vi /etc
+cd /etc/
+ls
+find gitconfig
+ls -a
+~/.gitconfig
+sudo -ii
+git config --list
+git status
+clear
+virtualbox
+ifconfig
